@@ -14,7 +14,7 @@ My idea was to first, based on input items, list all available delivery methods 
 ## How to build the project
 1. Enter main directory
 ```shell
-cd Task
+cd ocado-BasketSplitter
 ```
 2. Clean and build the project using Maven
 ```shell
